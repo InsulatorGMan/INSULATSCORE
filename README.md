@@ -1,18 +1,4 @@
-<img align="right" widht="auto" height="260" src="https://github.com/JackMD/ScoreHud/blob/master/meta/ScoreHud.PNG" alt="ScoreHud Banner">
 
->## Notice: <br />
->**Backwards Incompatible Update**
->- Starting from **ScoreHud version 6.0**, addons are no longer supported. <br />
->- All old addons will stop working on versions 6.0 and above. <br />
->- All old tags will stop functioning as well. <br />
->- More details can be found below <br />
->- **Please read FAQs below.**
-
-# ScoreHud
-
-| HitCount | License | Poggit | Release |
-|:--:|:--:|:--:|:--:|
-|[![HitCount](http://hits.dwyl.io/JackMD/ScoreHud.svg)](http://hits.dwyl.io/JackMD/ScoreHud)|[![GitHub license](https://img.shields.io/github/license/Ifera/ScoreHud.svg)](https://github.com/Ifera/ScoreHud/blob/master/LICENSE)|[![Poggit-CI](https://poggit.pmmp.io/ci.shield/Ifera/ScoreHud/ScoreHud)](https://poggit.pmmp.io/ci/Ifera/ScoreHud/ScoreHud)|[![](https://poggit.pmmp.io/shield.state/ScoreHud)](https://poggit.pmmp.io/p/ScoreHud)|
 
 ### A highly customizable plugin to add Scoreboards on your Minecraft Bedrock Server.
 
@@ -22,7 +8,7 @@
  - Completely **Event Driven**!! Good bye tasks!
  - Everything is customizable.
  - Easy and simple API for developers to use and integrate ScoreHud.
- - You can find some basic tags via [ScoreHudX](https://github.com/Ifera/ScoreHudX) plugin.
+ - You can find some basic tags via 
  
 ### How to setup?
 
@@ -62,7 +48,3 @@ A: Well you can always open a new issue on this repository or contact me via Dis
 A: Well, that is extremely fortunate. Why not to star this repository and might as well a good review on [poggit](https://poggit.pmmp.io/p/ScoreHud).<br /><br />
 **Q: What happened to addons?**<br />
 A: Addons system being simple and similar to pocketmine had some flaws especially when combined with tasks caused a great deal of lag. ScoreHud is now event driven and no longer depends on tasks, so it was only fitting to remove addon support as a whole. <br />
-
-### For Developers:
-
- - Refer to [wiki](https://github.com/Ifera/ScoreHud/wiki).
