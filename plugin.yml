@@ -1,8 +1,8 @@
-name: ScoreHud
-main: Ifera\ScoreHud\ScoreHud
+name: INSULATSCORE
+main: InsulatorGMan\INSULATSCORE
 api: [3.0.0]
 version: 6.0.0
-author: JackMD
+author: Grant-Stahr
 description: Add fully customizable scoreboards to your server.
 
 virions:
@@ -12,5 +12,5 @@ virions:
 
 permissions:
   sh.command.sh:
-    default: true
+    default: false
     description: Allow players to use /scorehud command.
