@@ -34,17 +34,4 @@ instead should now **work on almost all systems**.<br />
 
 ScoreHud using events is in the **benefit of plugin developers and the end-user** as well. Users no longer will need to download 
 and place addons in separate folder. And plugin developers will no longer need to make a separate addon for ScoreHud. They 
-can just integrate ScoreHud directly into their plugin and fire events to update their tags on ScoreHud. 
-
-### FAQs:
-
-**Q: How many lines can I set in `default-board`?**<br />
-A: You can set 1 to 15 lines in `default-board`. <br /><br />
-**Q: How many `server-names` can I set?**<br />
-A: You can set infinite many number of `server-names`. <br /><br />
-**Q: I am having problems and cannot set the plugin correctly. What do I do?**<br />
-A: Well you can always open a new issue on this repository or contact me via Discord: `Ifera#3717` or Twitter: `@ifera_tr`. <br /><br />
-**Q: I like the plugin. What do I do?**<br />
-A: Well, that is extremely fortunate. Why not to star this repository and might as well a good review on [poggit](https://poggit.pmmp.io/p/ScoreHud).<br /><br />
-**Q: What happened to addons?**<br />
-A: Addons system being simple and similar to pocketmine had some flaws especially when combined with tasks caused a great deal of lag. ScoreHud is now event driven and no longer depends on tasks, so it was only fitting to remove addon support as a whole. <br />
+can just integrate ScoreHud directly into their plugin and fire events to update their tags
